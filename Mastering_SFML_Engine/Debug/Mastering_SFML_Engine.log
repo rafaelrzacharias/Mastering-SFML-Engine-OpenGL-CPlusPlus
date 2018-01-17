@@ -1,0 +1,79 @@
+﻿  Window.cpp
+  VerticalDropDown.cpp
+  TileSet.cpp
+  TileMap.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\tilemap.cpp(40): warning C4018: '<': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\tilemap.cpp(41): warning C4018: '<': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\tilemap.cpp(44): warning C4018: '>=': signed/unsigned mismatch
+  S_State.cpp
+  S_Sound.cpp
+  S_SheetAnimation.cpp
+  S_Renderer.cpp
+  S_Movement.cpp
+  S_Control.cpp
+  S_Collision.cpp
+  S_Base.cpp
+  System_Manager.cpp
+  State_MapEditor.cpp
+  State_MainMenu.cpp
+  State_Loading.cpp
+  State_Intro.cpp
+  State_Game.cpp
+  StateManager.cpp
+  SpriteSheet.cpp
+  Generating Code...
+  Compiling...
+  SoundManager.cpp
+  SelectionOptions.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\selectionoptions.cpp(350): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\selectionoptions.cpp(356): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\selectionoptions.cpp(402): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\selectionoptions.cpp(401): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\selectionoptions.cpp(407): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\selectionoptions.cpp(406): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Renderer.cpp
+  ParticleSystem.cpp
+  MapTileSelector.cpp
+  MapControls.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(140): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(172): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(259): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\mapcontrols.cpp(258): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Map.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\map.cpp(56): warning C4018: '>=': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\map.cpp(59): warning C4018: '>=': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\map.cpp(60): warning C4018: '>=': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\map.cpp(92): warning C4018: '>=': signed/unsigned mismatch
+  Main.cpp
+  GUI_TextField.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_textfield.cpp(94): warning C4018: '>': signed/unsigned mismatch
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_textfield.cpp(103): warning C4018: '<': signed/unsigned mismatch
+  GUI_Sprite.cpp
+  GUI_Scrollbar.cpp
+  GUI_Manager.cpp
+  GUI_Label.cpp
+  GUI_Interface.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_interface.cpp(110): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_interface.cpp(111): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_interface.cpp(149): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_interface.cpp(181): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\gui_interface.cpp(405): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  GUI_Element.cpp
+  GUI_DropDownMenu.cpp
+  GUI_CheckBox.cpp
+  Game.cpp
+  FileManager.cpp
+  FileLoader.cpp
+  Generating Code...
+  Compiling...
+  EventManager.cpp
+c:\users\661066\downloads\mastering sfml engine (opengl and c++)\mastering_sfml_engine\eventmanager.cpp(104): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Entity_Manager.cpp
+  Emitter.cpp
+  Anim_Directional.cpp
+  Anim_Base.cpp
+  Generating Code...
+  Mastering_SFML_Engine.vcxproj -> C:\Users\661066\Downloads\Mastering SFML Engine (OpenGL and C++)\Debug\Mastering_SFML_Engine.exe
