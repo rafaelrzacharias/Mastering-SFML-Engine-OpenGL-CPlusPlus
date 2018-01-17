@@ -20,8 +20,7 @@ so one person can get the full grasp of what is under the hood.
 - Most object initialization is now performed with values read from some .txt file.
 - I learned a lot about game engine architecture and game programming patterns in order to manage large code bases efficiently.
 - The overall structure of the engine uses systems (renderer, sound, state, movement) and components to interface with said systems. Game objects are now a collection of components, driven by data.
-- I learned how to create sound banks and wave banks for both sound effects (cues) and music (soundtracks). These can be loaded from file in the beginning of each level, and positioned in 3D space in relation to the listner. Audio can be played, stopped,
-paused, and changed volume.
+- I learned how to create sound banks and wave banks for both sound effects (cues) and music (soundtracks). These can be loaded from file in the beginning of each level, and positional audio. Audio can be played, stopped, paused, and changed volume.
 - I learned a lot about graphics programming, shaders programming (GLSL), fragment and vertex shaders. As an example, the game has a simple night/day cycle.
 - Spritesheet was redone from scratch and now has many more features, such as loading frame data from a spritesheet in rows and columns,
 specify timming between frames, loop around animation, stop animation.
