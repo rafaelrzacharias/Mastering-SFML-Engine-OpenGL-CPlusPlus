@@ -18,8 +18,7 @@ so one person can get the full grasp of what is under the hood.
 - I started worrying about memory management and overall engine performance.
 - The entire game engine is build so that DATA is now separated from CODE. This makes it easy to tweak variables without recompiling.
 - Most object initialization is now performed with values read from some .txt file.
-- I learned a lot about game engine architecture and high level decision regarding efficiency, code base organization and extensibility.
-- I read a lot about programming patterns and managing large code bases efficiently, data encapsulation, Object Oriented and Composition.
+- I learned a lot about game engine architecture and game programming patterns in order to manage large code bases efficiently.
 - The overall structure of the engine uses systems (renderer, sound, state, movement) and components to interface with said systems. Game objects are now a collection of components, driven by data.
 - I learned how to create sound banks and wave banks for both sound effects (cues) and music (soundtracks). These can be loaded from file in the beginning of each level, and positioned in 3D space in relation to the listner. Audio can be played, stopped,
 paused, and changed volume.
