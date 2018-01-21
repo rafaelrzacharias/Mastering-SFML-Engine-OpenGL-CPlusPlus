@@ -1,9 +1,5 @@
 # Mastering SFML Engine OpenGL C++
 
-This was my third project.
-
-I decided to learn OpenGL and go deeper into C++ for games.
-
 The project used SFML (C++ library) and OpenGL (GLEW). Everything is in the Dependencies folder.
 
 In case the compiler gets angry, just download MVC++ Redistributable and install.
