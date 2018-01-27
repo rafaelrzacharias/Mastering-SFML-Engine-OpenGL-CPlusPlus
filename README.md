@@ -6,6 +6,7 @@ In case the compiler gets angry, just download MVC++ Redistributable and install
 
 Download the complete project with solution and placement art, build and enjoy!
 
+To try the game, please find the executable file in Debug/
 
 NOTES:
 
